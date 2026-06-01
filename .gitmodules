@@ -7,3 +7,12 @@
 [submodule "data-processing-and-analysis/ingestion_scripts"]
 	path = data-processing-and-analysis/ingestion_scripts
 	url = https://github.com/Rhythm-n-Rodents/ingestion_scripts.git
+[submodule "data-processing-and-analysis/nwb-conversion-examples"]
+	path = data-processing-and-analysis/nwb-conversion-examples
+	url = https://github.com/vncntprvst/nwb-conversion-examples.git
+[submodule "data-processing-and-analysis/aind-ephys-nwb-dandi"]
+	path = data-processing-and-analysis/aind-ephys-nwb-dandi
+	url = https://github.com/vncntprvst/aind-ephys-nwb-dandi.git
+[submodule "data-management/brainstem-integration"]
+	path = data-management/brainstem-integration
+	url = https://github.com/vncntprvst/brainstem-integration.git
