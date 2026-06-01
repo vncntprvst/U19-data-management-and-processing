@@ -23,7 +23,7 @@ Complementary approaches to organizing, storing, and annotating data.
 | **[Dataset manager](data-management/dataset-manager)** | Guided app that generates a custom metadata template + NWB conversion script per project. | submodule → `vncntprvst/dataset-manager` |
 | **[Backup and processing](data-management/backup_and_processing)** | Acquisition→NAS backup, metadata consolidation, and remote-trigger of cluster processing. | submodule → `vncntprvst/backup_and_processing` |
 | **[Forgejo data repository](data-management/forgejo-data-repository)** | On-site, versioned project-metadata store on the NAS (with example schema). | folder (README + example) |
-| **[BrainSTEM integration](data-management/brainstem-integration)** | Programmatic sync of notes/metadata with brainstem.org via its API. | repo → [`vncntprvst/brainstem-integration`](https://github.com/vncntprvst/brainstem-integration) (to add as submodule) |
+| **[BrainSTEM integration](data-management/brainstem-integration)** | Programmatic sync of notes/metadata with brainstem.org via its API. | submodule → `vncntprvst/brainstem-integration` |
 
 ## Data processing and analysis
 
@@ -31,9 +31,9 @@ Pipelines and examples for turning raw data into shareable, analyzable products.
 
 | Tool | What it does | Location |
 |---|---|---|
-| **[AIND ephys ↔ NWB / DANDI](data-processing-and-analysis/aind-ephys-nwb-dandi)** | AIND Kilosort4 spike-sorting pipeline integrated with NWB conversion + DANDI, on an HPC cluster. | repo → [`vncntprvst/aind-ephys-nwb-dandi`](https://github.com/vncntprvst/aind-ephys-nwb-dandi) (to add as submodule) |
+| **[AIND ephys ↔ NWB / DANDI](data-processing-and-analysis/aind-ephys-nwb-dandi)** | AIND Kilosort4 spike-sorting pipeline integrated with NWB conversion + DANDI, on an HPC cluster. | submodule → `vncntprvst/aind-ephys-nwb-dandi` |
 | **[Ingestion scripts](data-processing-and-analysis/ingestion_scripts)** | Reference library of modality/language conversion examples and guidelines. | submodule → `Rhythm-n-Rodents/ingestion_scripts` |
-| **[NWB conversion examples](data-processing-and-analysis/nwb-conversion-examples)** | Complete published conversion→deposition walkthroughs (e.g. Peri-head distance PrV, DANDI 001687). | repo → [`vncntprvst/nwb-conversion-examples`](https://github.com/vncntprvst/nwb-conversion-examples) (to add as submodule) |
+| **[NWB conversion examples](data-processing-and-analysis/nwb-conversion-examples)** | Complete published conversion→deposition walkthroughs (e.g. Peri-head distance PrV, DANDI 001687). | submodule → `vncntprvst/nwb-conversion-examples` |
 
 ## Datasets
 
