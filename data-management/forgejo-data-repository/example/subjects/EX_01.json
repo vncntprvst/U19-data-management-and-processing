@@ -1,0 +1,12 @@
+{
+  "subject_id": "EX_01",
+  "sex": "M",
+  "date_of_birth": "2025-01-15",
+  "species": "Mus musculus",
+  "genotype": "VGAT-ChR2-EYFP",
+  "strain": "C57BL/6J",
+  "goal": "Orofacial rhythm recording during licking",
+  "institution": "Example Performance Center",
+  "rig": "Ephys rig #1 - orofacial tracking",
+  "notes": "Synthetic example record illustrating the per-subject metadata schema."
+}

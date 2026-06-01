@@ -1,0 +1,9 @@
+[submodule "data-management/dataset-manager"]
+	path = data-management/dataset-manager
+	url = https://github.com/vncntprvst/dataset-manager.git
+[submodule "data-management/backup_and_processing"]
+	path = data-management/backup_and_processing
+	url = https://github.com/vncntprvst/backup_and_processing.git
+[submodule "data-processing-and-analysis/ingestion_scripts"]
+	path = data-processing-and-analysis/ingestion_scripts
+	url = https://github.com/Rhythm-n-Rodents/ingestion_scripts.git

@@ -1,0 +1,22 @@
+{
+  "subject_id": "EX_01",
+  "session_date": "2025-03-10",
+  "recordings": [
+    {
+      "recording_id": "EX_01_2025-03-10_001",
+      "task": "Licking_moving_tube",
+      "modalities": ["ephys", "behavior_video"],
+      "probe_config": "ProbeA",
+      "processing_status": "spike_sorted",
+      "notes": "Two probes; ProbeA in IRt. Good behavioral engagement."
+    },
+    {
+      "recording_id": "EX_01_2025-03-10_002",
+      "task": "Licking_moving_tube",
+      "modalities": ["ephys", "behavior_video"],
+      "probe_config": "ProbeA",
+      "processing_status": "raw",
+      "notes": "Synthetic example record illustrating the per-session metadata schema."
+    }
+  ]
+}
